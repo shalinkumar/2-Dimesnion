@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Bank Last Revised Low = 2169606221;
+    Bank Last Revised High = 30266987;
+
+    Wave
+    {
+        Name = backgroundMusic;
+        File = backgroundMusic.wav;
+        Build Settings Last Modified Low = 3001510918;
+        Build Settings Last Modified High = 30266985;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 18345600;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3310950064;
+            Last Modified High = 30166111;
+        }
+    }
+
+    Wave
+    {
+        Name = buttonClick;
+        File = buttonClick.wav;
+        Build Settings Last Modified Low = 3001510918;
+        Build Settings Last Modified High = 30266985;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 8000;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 441000;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2360453724;
+            Last Modified High = 30252913;
+        }
+    }
+
+    Wave
+    {
+        Name = confetti;
+        File = confetti.wav;
+        Build Settings Last Modified Low = 3001510918;
+        Build Settings Last Modified High = 30266985;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 46856;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3319062079;
+            Last Modified High = 30166111;
+        }
+    }
+
+    Wave
+    {
+        Name = pirate;
+        File = pirate.wav;
+        Build Settings Last Modified Low = 3001510918;
+        Build Settings Last Modified High = 30266985;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 146082;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3316566074;
+            Last Modified High = 30166111;
+        }
+    }
+
+    Wave
+    {
+        Name = zombie;
+        File = zombie.wav;
+        Build Settings Last Modified Low = 3001510918;
+        Build Settings Last Modified High = 30266985;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 132300;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3326550092;
+            Last Modified High = 30166111;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

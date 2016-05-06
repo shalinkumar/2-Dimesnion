@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>cheese.png</Source>
+      <Name>cheese</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2012\Projects\Game\TomJerryChasing\TomJerryChasing\TomJerryChasing\bin\x86\Debug\Content\cheese.xnb</Output>
+      <Time>2014-10-26T17:46:01.7739531+05:30</Time>
+    </Item>
+    <Item>
+      <Source>dogchase.png</Source>
+      <Name>dogchase</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2012\Projects\Game\TomJerryChasing\TomJerryChasing\TomJerryChasing\bin\x86\Debug\Content\dogchase.xnb</Output>
+      <Time>2014-10-26T17:46:01.8052031+05:30</Time>
+    </Item>
+    <Item>
+      <Source>jerrychase0.png</Source>
+      <Name>jerrychase0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2012\Projects\Game\TomJerryChasing\TomJerryChasing\TomJerryChasing\bin\x86\Debug\Content\jerrychase0.xnb</Output>
+      <Time>2014-11-21T08:42:07.0898437+05:30</Time>
+    </Item>
+    <Item>
+      <Source>jerrychase1.png</Source>
+      <Name>jerrychase1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2012\Projects\Game\TomJerryChasing\TomJerryChasing\TomJerryChasing\bin\x86\Debug\Content\jerrychase1.xnb</Output>
+      <Time>2014-11-21T08:43:23.09375+05:30</Time>
+    </Item>
+    <Item>
+      <Source>jerrychase2.png</Source>
+      <Name>jerrychase2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2012\Projects\Game\TomJerryChasing\TomJerryChasing\TomJerryChasing\bin\x86\Debug\Content\jerrychase2.xnb</Output>
+      <Time>2014-10-26T17:46:01.8218047+05:30</Time>
+    </Item>
+    <Item>
+      <Source>playbutton.png</Source>
+      <Name>playbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2012\Projects\Game\TomJerryChasing\TomJerryChasing\TomJerryChasing\bin\x86\Debug\Content\playbutton.xnb</Output>
+      <Time>2015-02-02T08:36:18.5436174+05:30</Time>
+    </Item>
+    <Item>
+      <Source>quitbutton.png</Source>
+      <Name>quitbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2012\Projects\Game\TomJerryChasing\TomJerryChasing\TomJerryChasing\bin\x86\Debug\Content\quitbutton.xnb</Output>
+      <Time>2015-02-02T08:32:33.631508+05:30</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2012\Projects\Game\TomJerryChasing\TomJerryChasing\TomJerryChasing\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2014-10-05T22:27:46.0946564+05:30</Time>
+    </Item>
+    <Item>
+      <Source>background1.jpg</Source>
+      <Name>background1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2012\Projects\Game\TomJerryChasing\TomJerryChasing\TomJerryChasing\bin\x86\Debug\Content\background1.xnb</Output>
+      <Time>2015-01-31T13:35:35.1425781+05:30</Time>
+    </Item>
+    <Item>
+      <Source>background2.jpg</Source>
+      <Name>background2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2012\Projects\Game\TomJerryChasing\TomJerryChasing\TomJerryChasing\bin\x86\Debug\Content\background2.xnb</Output>
+      <Time>2015-01-31T13:36:18.0605468+05:30</Time>
+    </Item>
+    <Item>
+      <Source>background3.jpg</Source>
+      <Name>background3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2012\Projects\Game\TomJerryChasing\TomJerryChasing\TomJerryChasing\bin\x86\Debug\Content\background3.xnb</Output>
+      <Time>2015-01-31T13:37:57.3857421+05:30</Time>
+    </Item>
+    <Item>
+      <Source>background4.jpg</Source>
+      <Name>background4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2012\Projects\Game\TomJerryChasing\TomJerryChasing\TomJerryChasing\bin\x86\Debug\Content\background4.xnb</Output>
+      <Time>2015-01-31T13:43:40.3027343+05:30</Time>
+    </Item>
+    <Item>
+      <Source>background5.jpg</Source>
+      <Name>background5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2012\Projects\Game\TomJerryChasing\TomJerryChasing\TomJerryChasing\bin\x86\Debug\Content\background5.xnb</Output>
+      <Time>2015-01-31T13:44:17.640625+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Tom.png</Source>
+      <Name>Tom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2012\Projects\Game\TomJerryChasing\TomJerryChasing\TomJerryChasing\bin\x86\Debug\Content\Tom.xnb</Output>
+      <Time>2014-10-29T09:10:05.5009765+05:30</Time>
+    </Item>
+    <Item>
+      <Source>TitleFont.spritefont</Source>
+      <Name>TitleFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2012\Projects\Game\TomJerryChasing\TomJerryChasing\TomJerryChasing\bin\x86\Debug\Content\TitleFont.xnb</Output>
+      <Time>2015-02-05T08:02:55.5859375+05:30</Time>
+    </Item>
+    <Item>
+      <Source>ScoreFont.spritefont</Source>
+      <Name>ScoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2012\Projects\Game\TomJerryChasing\TomJerryChasing\TomJerryChasing\bin\x86\Debug\Content\ScoreFont.xnb</Output>
+      <Time>2015-01-29T08:18:34.8916015+05:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{6C3273B5-B16D-4B1A-927C-03B0FB61844B}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\shalin\Documents\Visual Studio 2012\Projects\Game\TomJerryChasing\TomJerryChasing\TomJerryChasingContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\shalin\Documents\Visual Studio 2012\Projects\Game\TomJerryChasing\TomJerryChasing\TomJerryChasing\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\shalin\Documents\Visual Studio 2012\Projects\Game\TomJerryChasing\TomJerryChasing\TomJerryChasing\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\shalin\Documents\Visual Studio 2012\Projects\Game\TomJerryChasing\TomJerryChasing\TomJerryChasing\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-09-18T10:19:24.3759765+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

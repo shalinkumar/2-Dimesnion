@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomJerryChasing", "TomJerryChasing\TomJerryChasing\TomJerryChasing.csproj", "{F4EB5165-7468-402D-92C9-68AD72906AEA}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TomJerryChasingContent", "TomJerryChasing\TomJerryChasingContent\TomJerryChasingContent.contentproj", "{6C3273B5-B16D-4B1A-927C-03B0FB61844B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4EB5165-7468-402D-92C9-68AD72906AEA}.Debug|x86.ActiveCfg = Debug|x86
+		{F4EB5165-7468-402D-92C9-68AD72906AEA}.Debug|x86.Build.0 = Debug|x86
+		{F4EB5165-7468-402D-92C9-68AD72906AEA}.Release|x86.ActiveCfg = Release|x86
+		{F4EB5165-7468-402D-92C9-68AD72906AEA}.Release|x86.Build.0 = Release|x86
+		{6C3273B5-B16D-4B1A-927C-03B0FB61844B}.Debug|x86.ActiveCfg = Debug|x86
+		{6C3273B5-B16D-4B1A-927C-03B0FB61844B}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
